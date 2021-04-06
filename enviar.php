@@ -1,10 +1,10 @@
 <?php
 
 //llamando a los campos
-$nombre = $_POST['name'];
-$correo = $_POST['correo'];
-$telefono = $_POST['telefono'];
-$mensaje = $_POST['mensaje'];
+$nombre = $_POST['Nombre'];
+$correo = $_POST['Correo'];
+$telefono = $_POST['Telefono'];
+$mensaje = $_POST['Mensaje'];
 
 //Datos para el correo
 $destinatario = "daxterjef2@gmail.com";
